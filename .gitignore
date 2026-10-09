@@ -1,0 +1,28 @@
+# Environment variables
+
+.env
+.env.*
+
+# Python virtual environment
+
+venv/
+.venv/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# IDE settings
+
+.vscode/
+
+# Local database files
+
+*.db
+
+# Test and coverage files
+
+.pytest_cache/
+.coverage
+htmlcov/
